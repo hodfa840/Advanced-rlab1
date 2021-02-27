@@ -31,3 +31,7 @@ my_function_name <- function (x, y){
 # languages, return is usually a reserved word (like if).By default R returns the last computed value of the function,
 
 #--------------------------------------------------------
+
+# help()
+
+help('+')
